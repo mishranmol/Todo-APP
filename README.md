@@ -1,6 +1,6 @@
 # Todo-APP
 
-Todo App is a Node.js, Express, MongoDB, and based application designed to help users to perform the CRUD Operations on their data.
+Todo App is a Node.js, Express, MongoDB, and based application designed to help users to perform the CRUD Operations on the data.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
